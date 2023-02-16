@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/web-portfolio/static/css/main.b34bde18.css",
+    "main.js": "/web-portfolio/static/js/main.98d74201.js",
+    "static/media/foodary.png": "/web-portfolio/static/media/foodary.7338e0ccbe029f154367.png",
+    "static/media/client2.jpeg": "/web-portfolio/static/media/client2.880ace4e5195f0e393fc.jpeg",
+    "static/media/Barnesco.png": "/web-portfolio/static/media/Barnesco.30e3f6cf364e898c9607.png",
+    "static/media/CV.pdf": "/web-portfolio/static/media/CV.187565394547613035c6.pdf",
+    "static/media/Profile1.png": "/web-portfolio/static/media/Profile1.d77545c72ab045698f48.png",
+    "static/media/client3.jpeg": "/web-portfolio/static/media/client3.27f40ca81cb370dcf1c4.jpeg",
+    "static/media/Employee.png": "/web-portfolio/static/media/Employee.38ea7e90590bb082e2e9.png",
+    "static/media/CRTF4.jpg": "/web-portfolio/static/media/CRTF4.9d7f440e620151d2dd2a.jpg",
+    "static/media/CRTF2.jpg": "/web-portfolio/static/media/CRTF2.79b9d5d8a02a5755a567.jpg",
+    "static/media/CRTF1.jpg": "/web-portfolio/static/media/CRTF1.4e772638bff9a8d0f632.jpg",
+    "static/media/CRTF3.jpg": "/web-portfolio/static/media/CRTF3.20fd6c7b3ee891d3bd4a.jpg",
+    "static/media/blog.png": "/web-portfolio/static/media/blog.bd4181baa391624ee7d3.png",
+    "index.html": "/web-portfolio/index.html",
+    "main.b34bde18.css.map": "/web-portfolio/static/css/main.b34bde18.css.map",
+    "main.98d74201.js.map": "/web-portfolio/static/js/main.98d74201.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b34bde18.css",
+    "static/js/main.98d74201.js"
+  ]
+}
